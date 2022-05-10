@@ -1,0 +1,19 @@
+
+        .divClass {
+            font-size: 22px;
+            font-family: Arial;
+        }
+        #thirdDiv {
+            height: 500px;
+            width: 400px;
+            background-color: rgb(187, 150, 31);
+            padding: 50px;
+            border-style: dashed;
+            border-color: black;
+            border-width: 2px;
+        }
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+            padding: 5px;
+        }
