@@ -1,0 +1,5 @@
+* Las variables representan espacios, o cajas donde podes almacenar informacion para usarla cuando la necesites.
+* Las strings, son frases, cadenas de letras o caracteres.
+* Las funciones, son conjuntos de instrucciones que realizan una o varias tareas.
+* Las declaraciones "if" son como si fueran una division de caminos. Si pasa esto, andá por ahi...., si pasa esto otro, ve por allá.
+* Los valores booleanos, representan la condicion de si algo es verdadero o si es falso.
