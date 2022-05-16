@@ -1,0 +1,5 @@
+Explicacion Homework
+
+* For tiene por finalidad repetir la ejecucion codigo durante una X cantidad de veces, y mientras una condicion sea verdadera.
+Por ej, mientras i sea menor a 10, ejecutá el codigo. Cuando supere las 10 repeticiones, deja de ejecutar el codigo.
+* Los operadores logicos &&, ||, y !, (y, o y no, respectivamente) se usan para construir condiciones, para definir ciertos valores.  
