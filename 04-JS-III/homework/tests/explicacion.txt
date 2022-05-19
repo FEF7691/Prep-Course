@@ -1,0 +1,1 @@
+Un array es una fila de cajitas en donde guardas informacion para cuando la necesites.
